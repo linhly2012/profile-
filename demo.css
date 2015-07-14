@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+
+div{
+    color: blue;
+    font-weight: bold;
+}
+
+#welcome{
+    color: purple;
+}
+
+#w1{
+    color: blue; 
+}
+
+.green_text{
+   color: green;
+}

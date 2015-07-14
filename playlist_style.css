@@ -1,0 +1,25 @@
+
+body{
+  font-family: Arial;
+}
+
+h1, h2{
+  background: green;
+  color: #47D1FF;
+  font-family: 'Roboto Condensed', sans-serif;
+  width: 50%;
+
+}
+
+.style{
+  font-weight: bold;
+  color: #140C0F;
+  float: right; 
+}
+
+ul{
+  border: 1px solid grey;
+  background: #C285FF;
+  padding: 20px;
+  margin-left: 100px;
+}
